@@ -1,6 +1,5 @@
 {
   "name": "memeapp",
-  "homepage": "https://github.com/ankit-kaushal/Meme-Generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
